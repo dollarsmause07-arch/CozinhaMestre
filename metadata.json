@@ -1,7 +1,0 @@
-{
-  "name": "Cozinha Mestre",
-  "description": "Um site de culinária em português focado em instruções passo a passo, acessibilidade e receitas deliciosas.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
